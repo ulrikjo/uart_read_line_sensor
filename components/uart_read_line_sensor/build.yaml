@@ -1,0 +1,3 @@
+esphome:
+  name: uart_read_line_sensor
+  friendly_name: UART Read Line Sensor
